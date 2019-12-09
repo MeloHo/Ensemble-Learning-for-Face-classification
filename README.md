@@ -1,5 +1,6 @@
 # Ensemble-Learning-for-Face-classification
-Please refer to the provided pdf file for more information
+Please refer to the provided pdf file for more information.
+
 This project is for Kaggle competition:https://www.kaggle.com/c/11785-f19-hw2p2-classification/overview
 
 ## Download
